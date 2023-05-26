@@ -58,7 +58,7 @@ header{
     height: 4vh;
     width: 4vh;
     position: relative;
-    left: 49.2vw;
+    left: 49.4vw;
     top: 0.4vh;
 }
 .smallcircle2{
@@ -91,10 +91,10 @@ header{
     text-align: center;
     border-radius: 30px;
     height: 4vh;
-    width: 21vh;
+    width: 23vh;
     position: relative;
     top: -40vh;
-    left: 45.4vw;
+    left: 44.5vw;
 }
 .rectangle2{
     background: #BABEFF;
@@ -103,10 +103,10 @@ header{
     font-size: 0.9em;
     border-radius: 30px;
     height: 3vh;
-    width: 16vh;
+    width: 17vh;
     position: relative;
     top: -43vh;
-    left: 29.4vw;
+    left: 29vw;
 }
 .rectangle3{
     background: #BABEFF;
@@ -115,10 +115,10 @@ header{
     font-size: 0.9em;
     border-radius: 30px;
     height: 3vh;
-    width: 16vh;
+    width: 18vh;
     position: relative;
     top: -46vh;
-    left: 62.4vw;
+    left: 61.8vw;
 }
 .box1{
     background: #D2D4F2;
@@ -152,4 +152,7 @@ span{
     font-size: 2em;
     top: -17.5vh;
     left: 80.7vw;
+}
+img {
+    border-radius: 50%;
 }
